@@ -1,3 +1,6 @@
+/*
+ El codigo consiste en un juego de adivinanza. Donde el jugador elige una opccion (Niveles de dificultad).
+ */
 import java.io.PrintStream;
 import java.util.Scanner;
 
